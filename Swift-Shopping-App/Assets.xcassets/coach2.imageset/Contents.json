@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "Gianella Grey Oxford All Leather Sofa by iNSPIRE Q Modern - Bed Bath & Beyond - 28963911.jpeg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
